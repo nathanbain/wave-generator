@@ -34,5 +34,5 @@ Summary: Errors (1)
 ## Rake Tasks
 
 * Default - `rake wave:make URL=<your-websites-url>` - Reports Errors, Features and Others.
-* Default - `rake wave:make_errors_and_features URL=<your-websites-url>` - Reports Errors and Features only.
-* Default - `rake wave:make_errors URL=<your-websites-url>` - Reports Errors only.
+* Errors + Features - `rake wave:make_errors_and_features URL=<your-websites-url>` - Reports Errors and Features only.
+* Errors - `rake wave:make_errors URL=<your-websites-url>` - Reports Errors only.
