@@ -13,7 +13,7 @@ Wave Generator will generate an accessibility report for your website using the 
 
 ## Installation
 
-* Clone this project `gem clone https://github.com/wave-generator.git`
+* Clone this project `gem clone https://github.com/nathanbain/wave-generator.git`
 * Run `bundle install`
 * Run the rake task `rake wave:make URL=<your-websites-url>`
 
