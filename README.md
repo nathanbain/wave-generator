@@ -27,7 +27,7 @@ Summary: Errors (1)
 
 ## Installation
 
-* Clone this project `gem clone https://github.com/nathanbain/wave-generator.git`
+* Clone this project `git clone https://github.com/nathanbain/wave-generator.git`
 * Run `bundle install`
 * Run the rake task `rake wave:make URL=<your-websites-url>`
 
