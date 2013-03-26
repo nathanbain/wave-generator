@@ -12,7 +12,7 @@ rake wave:make_errors
 
 Wave Accessibility Report - Showing Errors Only
 
-* ERROR: Form label missing: A form &lt;input&gt;, &lt;select&gt;, or &lt;textarea&gt; does not have a corresponding label. (Note: Labels are not required for image, submit, reset, button, or hidden form element types.).
+* ERROR: Form label missing: A form <input>, <select>, or <textarea> does not have a corresponding label. (Note: Labels are not required for image, submit, reset, button, or hidden form element types.).
 
 Summary: Errors (1)
 
